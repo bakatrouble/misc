@@ -1,8 +1,17 @@
  [uBlock Origin 1.16.7.2]
 ! Title: Personal bakatrouble's Filterlist
-! Version: 201805291501
+! Version: 201805292045
 ! Author: bakatrouble
 ! Homepage: https://github.com/bakatrouble/misc
 ! Expires: 1 day
 
 idol.sankakucomplex.com##div#post-content:style(padding-top: 0 !important)
+
+gelbooru.com#@#div[style] > [class][style]
+www.pornhub.com###age-verification-wrapper
+www.pornhub.com###age-verification-container
+www.pornhub.com##.onesuch
+twitter.com##[data-item-type="recap_entry"]
+e621.net###ad-leaderboard
+gelbooru.com###motdspacer:style(display: block !important)
+@@||cdnjs.cloudflare.com^$script,domain=idol.sankakucomplex.com
