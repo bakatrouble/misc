@@ -1,0 +1,8 @@
+ [uBlock Origin 1.16.7.2]
+! Title: Personal bakatrouble's Filterlist
+! Version: 201805291501
+! Author: bakatrouble
+! Homepage: https://github.com/bakatrouble/misc
+! Expires: 1 day
+
+idol.sankakucomplex.com##div#post-content:style(padding-top: 0 !important)
